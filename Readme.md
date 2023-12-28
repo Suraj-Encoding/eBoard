@@ -10,7 +10,7 @@
 - ### **🕸️ Deploy On :**
        Render
 
-- ### **🕸️ Tool Used :**
+- ### **🕸️ Tools Used :**
       VSCode | Docker | Github
 
 - ### **🕸️ Tech Stack ::**
