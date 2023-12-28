@@ -14,4 +14,4 @@
 - ### **🕸️ Tech Stack ::** [React | Next | Typescript | Tailwind | Bootstrap | Buddy | Netlify | Other]()
 
 <!-- Portfolio Link -->
-- ### **🕸️ My Personal Portfolio Website :** [Portfolio](https://surajdalvi.me "Visit My Portfolio")
+- ### **🕸️ My Portfolio :** [Portfolio](https://surajdalvi.me "Visit My Portfolio")
